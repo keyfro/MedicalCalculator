@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CIS332 mobile app-MedicalCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/CIS332 mobile app-MedicalCalculator.iml" group="MedicalCalculator" />
+      <module fileurl="file://$PROJECT_DIR$/MedicalCalculator.iml" filepath="$PROJECT_DIR$/MedicalCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MedicalCalculator-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MedicalCalculator-app.iml" group="MedicalCalculator/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
